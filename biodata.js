@@ -1,4 +1,4 @@
-let person = {
+var person = {
     name : "Wijaya Putra",
     age : 22,
     address: "Nagan Raya Provinsi Aceh",
